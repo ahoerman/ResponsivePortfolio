@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Inria+Serif|Raleway&display=swap');
+
+a.navbar-brand {
+    font-family: 'Inria Serif', serif;
+}
+
+h1 {
+    font-family: 'Inria Serif', serif;
+}
+
+a.nav-link {
+    font-family: 'Raleway', sans-serif;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+}
