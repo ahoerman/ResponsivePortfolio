@@ -25,3 +25,7 @@ a.nav-link {
 p {
     font-family: 'Raleway', sans-serif;
 }
+
+img.project {
+    margin: 1rem;
+}
