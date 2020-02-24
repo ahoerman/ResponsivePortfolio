@@ -14,7 +14,7 @@ a.navbar-brand {
     font-size: 2rem;
 }
 
-h1 {
+h1, h2, h4 {
     font-family: 'Inria Serif', serif;
 }
 
@@ -40,4 +40,16 @@ div.alternate1 {
 
 footer {
     background:#f9fcff;
+}
+
+.fa-github {
+    color: #000000;
+}
+
+.fa-file-pdf {
+    color: #5e1f1f;
+}
+
+.fa-linkedin {
+    color: #2f59ce;
 }
