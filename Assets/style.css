@@ -18,6 +18,11 @@ h1, h2, h4 {
     font-family: 'Inria Serif', serif;
 }
 
+h3 {
+    font-family: 'Inria Serif', serif;
+    text-decoration: underline;
+}
+
 a.nav-link {
     font-family: 'Raleway', sans-serif;
 }
@@ -28,6 +33,7 @@ p {
 
 img.project {
     margin: 2rem;
+    height: 10rem;
 }
 
 div.alternate2 {
