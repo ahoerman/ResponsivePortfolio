@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Inria+Serif|Raleway&display=swap');
 
 body {
-    background-image:url("footer_lodyas.png");
-
-}
-
-div.main {
-    background:#f9fcff;
+    background-image:url("background1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center top;
+    background-size: 100% 17%;
+    background-attachment: scroll;
 }
 
 a.navbar-brand {
@@ -14,13 +14,22 @@ a.navbar-brand {
     font-size: 2rem;
 }
 
-h1, h2, h4, h6 {
+h1, h2, h4, h5, h6 {
     font-family: 'Inria Serif', serif;
+}
+
+h1 {
+    text-decoration: underline;
 }
 
 h3 {
     font-family: 'Inria Serif', serif;
     text-decoration: underline;
+}
+
+div.contact {
+    background: #d1f3f3;
+    width: 400px;
 }
 
 a.nav-link {
@@ -37,11 +46,11 @@ img.project {
 }
 
 div.alternate2 {
-    background:#cfcfcf;
+    background:#e6e3df;
 }
 
 div.alternate1 {
-    background: #acacac;
+    background: #cfcdc6;
 }
 
 footer {
